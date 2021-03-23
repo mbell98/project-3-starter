@@ -1,7 +1,9 @@
 {
   "deliverables": {
     "project-submission": {
-      "resubmission-detected": false,
+      "resubmission-detected": [
+        "project-submission"
+      ],
       "slip-days-spent": 4,
       "base-checks": [
         {
@@ -33,7 +35,7 @@
       ],
       "hostname": "isengard.mines.edu",
       "calc-slip-days": 4,
-      "local-timestamp": 1616476272,
+      "local-timestamp": 1616476303,
       "local-due-date": 1616133599,
       "deliverable-specific-checks": [],
       "carried-slip-days": 0
